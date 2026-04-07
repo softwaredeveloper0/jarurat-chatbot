@@ -32,4 +32,11 @@ public class WebhookController {
         String reply = whatsAppWebhookService.generateReply(request.getMessage());
         return ResponseEntity.ok(new Response(reply));
     }
+
+    @GetMapping("/webhook")
+    public ResponseEntity<Response> handleGet(@Valid @RequestParam String message) {
+        logger.info("Incoming webhook message='{}'", message);
+
+        return ResponseEntity.ok(new Response(message));
+    }
 }

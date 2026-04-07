@@ -2,6 +2,8 @@ package com.example.jarurat;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
+import com.example.jarurat.service.WhatsAppWebhookService;
+
 
 class WhatsAppWebhookServiceTest {
 

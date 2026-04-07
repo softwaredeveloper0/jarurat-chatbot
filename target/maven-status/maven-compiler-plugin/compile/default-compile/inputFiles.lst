@@ -1,0 +1,8 @@
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/JaruratApplication.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/Response.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/WhatsAppMessageRequest.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/WhatsAppWebhookService.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/controller/WebhookController.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/dto/Response.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/exception/GlobalExceptionHandler.java
+/Users/newnew/jarurat/src/main/java/com/example/jarurat/service/WhatsAppWebhookService.java

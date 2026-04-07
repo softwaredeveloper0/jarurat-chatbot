@@ -1,0 +1,8 @@
+com/example/jarurat/WhatsAppWebhookService.class
+com/example/jarurat/controller/WebhookController.class
+com/example/jarurat/exception/GlobalExceptionHandler.class
+com/example/jarurat/Response.class
+com/example/jarurat/service/WhatsAppWebhookService.class
+com/example/jarurat/JaruratApplication.class
+com/example/jarurat/WhatsAppMessageRequest.class
+com/example/jarurat/dto/Response.class
